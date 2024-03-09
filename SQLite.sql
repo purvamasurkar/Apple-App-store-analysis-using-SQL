@@ -120,6 +120,5 @@ FROM (
 WHERE
 a.rank = 1
         
-**INSIGHTS**
 
 
